@@ -1,4 +1,4 @@
-# 1/N
+# 1/N :robot: Architecture Configurtion
 
 ## Machines
 - WSL2 Ubuntu
