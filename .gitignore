@@ -1,0 +1,17 @@
+# Never commit inventory - contains credentials
+inventory/hosts.ini
+
+# Never commit certs
+*.pem
+*.cer
+*.pfx
+
+# Ansible retry files
+*.retry
+
+# VS Code
+.vscode/
+
+# Temp files
+*.tmp
+*.log

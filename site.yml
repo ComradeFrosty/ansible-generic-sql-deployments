@@ -1,0 +1,7 @@
+---
+- name: Generic SQL Deployment
+  hosts: dev_servers
+  roles:
+    - generic-package-installer
+    - generic-script-runner
+    - generic-job-executor
