@@ -3,6 +3,7 @@ This repo is automates generic .ispac package installation, script execution and
 
 ## Includes Ansible and Architecture setup Documentation
 Link - [Repo Structure - Quick Glance](https://github.com/ComradeFrosty/ansible-generic-sql-deployments/blob/main/Documentation/architecture.md)
+
 Link - [Quick Docs - From Scratch; Dummies](https://github.com/ComradeFrosty/ansible-generic-sql-deployments/blob/main/Documentation/For%20Dummies.md)
 
 ## Assume the follwing manual process
