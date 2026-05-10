@@ -1,4 +1,4 @@
-# 1/N :robot: Architecture Configurtion
+# :robot: Repo Structure
 
 ## Project Structure Reference
 
