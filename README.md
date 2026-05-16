@@ -11,3 +11,5 @@ Given that you only go take a step forward after successful installation / scrip
 1. Install the .ispac files in a given target server
 2. Run the SQL scripts one after one only after success
 3. Run the SQL jobs one by one
+
+This project is in active development, please use this as a skeleton only.
